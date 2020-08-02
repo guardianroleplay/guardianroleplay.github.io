@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Guardian Foundation
 
 You can use the [editor on GitHub](https://github.com/guardianroleplay/guardianroleplay.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
